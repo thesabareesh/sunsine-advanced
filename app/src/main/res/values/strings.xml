@@ -58,6 +58,7 @@
     <!-- Value in SharedPreferences for imperial temperature unit option [CHAR LIMIT=NONE] -->
     <string name="pref_units_imperial" translatable="false">imperial</string>
 
+    <string name="pref_location_status_key" translatable="false">loc-status</string>
 
     <!-- Language-specific constants -->
     <string name="today">Today</string>
@@ -93,5 +94,17 @@
 
     <!-- Strings related to Notification preference -->
     <string name="pref_last_notification">last_notification</string>
+
+    <string name="error_msg">Unable to load data</string>
+    <string name="no_network">Please check your network connectivity</string>
+
+    <string name="empty_forecast_list">No weather information available</string>
+    <string name="empty_forecast_list_server_down">No weather information available. Server down.</string>
+    <string name="empty_forecast_list_server_error">No weather information available. Server error</string>
+    <string name="empty_forecast_list_server_invalid">No weather information available. Invalid server.</string>
+    <string name="empty_forecast_list_server_unknown">No weather information available. Unknown error.</string>
+    <string name="empty_forecast_list_invalid_location">No weather information available. The location in settings is not recognized by the weather server.</string>
+
+
 
 </resources>

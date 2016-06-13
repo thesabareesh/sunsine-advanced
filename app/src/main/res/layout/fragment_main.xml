@@ -9,4 +9,15 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:divider="@null" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listview_forecast_empty"
+        android:text="@string/error_msg"
+        android:gravity="center_horizontal"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"/>
 </FrameLayout>

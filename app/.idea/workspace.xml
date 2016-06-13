@@ -37,25 +37,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DetailActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/DetailActivity.java">
+      <file leaf-file-name="SunshineSyncAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding />
+              <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+              <folding>
+                <element signature="method#SunshineSyncAdapter#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="e#3668#3722#0" expanded="false" />
+                <element signature="e#4087#4136#0" expanded="false" />
+                <element signature="e#5925#6003#0" expanded="false" />
+                <element signature="e#6658#6745#0" expanded="false" />
+                <element signature="docComment;method#getWeatherDataFromJson#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="e#7842#7916#0" expanded="false" />
+                <element signature="e#10531#10613#0" expanded="false" />
+                <element signature="e#12285#12362#0" expanded="false" />
+                <element signature="e#12703#12782#0" expanded="false" />
+                <element signature="method#notifyWeather#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="e#17425#17507#0" expanded="false" />
+                <element signature="e#18064#18142#0" expanded="false" />
+                <element signature="e#18315#18388#0" expanded="false" />
+                <element signature="docComment;method#addLocation#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="method#addLocation#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="e#20913#20997#0" expanded="false" />
+                <element signature="e#21163#21236#0" expanded="false" />
+                <element signature="docComment;method#configurePeriodicSync#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="method#configurePeriodicSync#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="docComment;method#syncImmediately#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="method#syncImmediately#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="docComment;method#getSyncAccount#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="method#getSyncAccount#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="method#onAccountCreated#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="docComment;method#setLocationStatus#0;class#SunshineSyncAdapter#0" expanded="false" />
+                <element signature="method#setLocationStatus#0;class#SunshineSyncAdapter#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_detail.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_detail.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="ForecastFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/ForecastFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.5172415">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="316" column="68" selection-start-line="316" selection-start-column="45" selection-end-line="316" selection-end-column="68" />
+              <folding>
+                <element signature="docComment;class#ForecastFragment#0" expanded="false" />
+                <element signature="e#2282#2357#0" expanded="false" />
+                <element signature="e#3938#3982#0" expanded="true" />
+                <element signature="class#Callback#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="docComment;method#onItemSelected#0;class#Callback#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="method#onCreate#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="method#onCreateOptionsMenu#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="method#onOptionsItemSelected#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="e#5335#5393#0" expanded="false" />
+                <element signature="e#5567#5609#0" expanded="false" />
+                <element signature="method#onCreateView#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="e#6008#6063#0" expanded="false" />
+                <element signature="e#6861#6941#0" expanded="false" />
+                <element signature="e#7566#7627#0" expanded="false" />
+                <element signature="e#8045#8123#0" expanded="false" />
+                <element signature="method#onLocationChanged#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="method#openPreferredLocationInMap#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="e#8931#9011#0" expanded="false" />
+                <element signature="method#onSaveInstanceState#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="e#10058#10133#0" expanded="false" />
+                <element signature="method#onCreateLoader#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="e#10525#10587#0" expanded="false" />
+                <element signature="method#setUseTodayLayout#0;class#ForecastFragment#0" expanded="false" />
+                <element signature="e#12346#12374#0" expanded="true" />
+                <element signature="e#12627#12667#0" expanded="true" />
+                <element signature="e#12809#12852#0" expanded="true" />
+                <element signature="e#12987#13030#0" expanded="true" />
+                <element signature="e#13165#13210#0" expanded="true" />
+                <element signature="e#13342#13361#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,8 +118,88 @@
       <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gradle.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45617172">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.608229">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SettingsActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/SettingsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="103" column="46" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="46" />
+              <folding>
+                <element signature="docComment;class#SettingsActivity#0" expanded="false" />
+                <element signature="e#1917#2002#0" expanded="false" />
+                <element signature="e#2196#2230#0" expanded="true" />
+                <element signature="docComment;method#bindPreferenceSummaryToValue#0;class#SettingsActivity#0" expanded="false" />
+                <element signature="method#bindPreferenceSummaryToValue#0;class#SettingsActivity#0" expanded="false" />
+                <element signature="e#2652#2709#0" expanded="false" />
+                <element signature="e#3159#3220#0" expanded="false" />
+                <element signature="e#3790#3832#0" expanded="false" />
+                <element signature="method#getParentActivityIntent#0;class#SettingsActivity#0" expanded="false" />
+                <element signature="e#4246#4283#0" expanded="true" />
+                <element signature="e#4506#4540#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utility.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/Utility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="270" column="54" selection-start-line="270" selection-start-column="54" selection-end-line="270" selection-end-column="54" />
+              <folding>
+                <element signature="method#getPreferredLocation#0;class#Utility#0" expanded="false" />
+                <element signature="e#1258#1303#0" expanded="true" />
+                <element signature="e#1321#1370#0" expanded="true" />
+                <element signature="method#isMetric#0;class#Utility#0" expanded="false" />
+                <element signature="e#1555#1597#0" expanded="true" />
+                <element signature="e#1615#1660#0" expanded="true" />
+                <element signature="e#1686#1731#0" expanded="true" />
+                <element signature="method#formatTemperature#0;class#Utility#0" expanded="false" />
+                <element signature="e#1831#1915#0" expanded="false" />
+                <element signature="e#2188#2234#0" expanded="true" />
+                <element signature="method#formatDate#0;class#Utility#0" expanded="false" />
+                <element signature="docComment;method#getFriendlyDayString#0;class#Utility#0" expanded="false" />
+                <element signature="e#3119#3175#0" expanded="false" />
+                <element signature="e#3631#3703#0" expanded="false" />
+                <element signature="e#3807#3840#0" expanded="true" />
+                <element signature="e#3869#3903#0" expanded="true" />
+                <element signature="docComment;method#getDayName#0;class#Utility#0" expanded="false" />
+                <element signature="e#4862#4948#0" expanded="false" />
+                <element signature="e#5241#5274#0" expanded="true" />
+                <element signature="e#5352#5388#0" expanded="true" />
+                <element signature="docComment;method#getFormattedMonthDay#0;class#Utility#0" expanded="false" />
+                <element signature="method#getFormattedMonthDay#0;class#Utility#0" expanded="false" />
+                <element signature="method#getFormattedWind#0;class#Utility#0" expanded="false" />
+                <element signature="e#6645#6669#0" expanded="true" />
+                <element signature="e#6713#6737#0" expanded="true" />
+                <element signature="e#6813#6896#0" expanded="false" />
+                <element signature="docComment;method#getIconResourceForWeatherCondition#0;class#Utility#0" expanded="false" />
+                <element signature="method#getIconResourceForWeatherCondition#0;class#Utility#0" expanded="false" />
+                <element signature="e#8233#8272#0" expanded="false" />
+                <element signature="docComment;method#getArtResourceForWeatherCondition#0;class#Utility#0" expanded="false" />
+                <element signature="method#getArtResourceForWeatherCondition#0;class#Utility#0" expanded="false" />
+                <element signature="e#9793#9832#0" expanded="false" />
+                <element signature="method#isConnected#0;class#Utility#0" expanded="false" />
+                <element signature="e#11345#11378#0" expanded="true" />
+                <element signature="e#11585#11637#0" expanded="true" />
+                <element signature="e#11695#11728#0" expanded="true" />
+                <element signature="e#11930#11976#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.148149">
+              <caret line="103" column="52" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -1246,7 +1381,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="D:\Android-Projects\Sunshine-Version-2-final\Sunshine-Version-2-sunshine_final\app" value="4396208546127" />
+        <entry key="D:\Android-Projects\Sunshine-Version-2-final\Sunshine-Version-2-sunshine_final\app" value="4396550608682" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1463,8 +1598,8 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
                             <option value="C:/AndroidSDK/extras/android/m2repository/com/android/support/appcompat-v7/23.1.1/appcompat-v7-23.1.1.aar" />
-                            <option value="C:/AndroidSDK/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1.aar" />
                             <option value="C:/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar" />
+                            <option value="C:/AndroidSDK/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1.aar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$" />
@@ -1608,14 +1743,19 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/android/sunshine/app/sync/SunshineSyncAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/android/sunshine/app/data/WeatherContract.java" />
-        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/build/generated/source/r/debug/com/example/android/sunshine/app/R.java" />
         <option value="$PROJECT_DIR$/build/generated/source/r/debug/com/fulltoast/sunshine/R.java" />
-        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/build/generated/source/r/debug/com/fulltoast/app/R.java" />
         <option value="$PROJECT_DIR$/build/generated/source/r/debug/com/fulltoast/android/sunshine/app/app/R.java" />
         <option value="$PROJECT_DIR$/build/generated/source/r/debug/com/fulltoast/android/sunshine/app/R.java" />
+        <option value="$PROJECT_DIR$/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/layout/fragment_main.xml" />
+        <option value="$PROJECT_DIR$/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/SettingsActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/ForecastFragment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/Utility.java" />
         <option value="$PROJECT_DIR$/gradle.properties" />
       </list>
     </option>
@@ -1633,7 +1773,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -1652,15 +1792,13 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages AndroidView="false" />
+      <hideEmptyPackages AndroidView="true" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1681,6 +1819,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1702,19 +1843,109 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sync" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Sunshine-work/Sunshine" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.28.102:5555" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.28.101:5555" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_23_2" />
+    <property name="FullScreen" value="false" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -1858,7 +2089,7 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -1883,6 +2114,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0ea41152-482d-43a5-ba33-d8bc40af5801" name="Default" comment="" />
@@ -1893,49 +2127,160 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8330494" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50425893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29642248" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3547655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24127465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8330494" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/ForecastFragment.java</url>
+          <line>309</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/ForecastFragment.java</url>
+          <line>311</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/Utility.java</url>
+          <line>274</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java</url>
+          <line>229</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java</url>
+          <line>232</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java</url>
+          <line>235</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java</url>
+          <line>236</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java</url>
+          <line>233</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java</url>
+          <line>226</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java</url>
+          <line>223</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="19" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/DetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_detail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1948,7 +2293,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1956,102 +2300,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49194992">
-          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/list_item_forecast_today.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/list_item_forecast.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout-sw600dp/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/ForecastAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/ForecastFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="108" column="41" selection-start-line="108" selection-start-column="41" selection-end-line="108" selection-end-column="41" />
-          <folding>
-            <element signature="docComment;class#ForecastFragment#0" expanded="false" />
-            <element signature="e#2112#2187#0" expanded="false" />
-            <element signature="docComment;class#Callback#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="class#Callback#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="docComment;method#onItemSelected#0;class#Callback#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="method#ForecastFragment#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="method#onOptionsItemSelected#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="e#4503#4561#0" expanded="false" />
-            <element signature="e#4735#4777#0" expanded="false" />
-            <element signature="method#onCreateView#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="e#5176#5231#0" expanded="false" />
-            <element signature="e#5910#5990#0" expanded="false" />
-            <element signature="e#6615#6676#0" expanded="false" />
-            <element signature="e#7094#7172#0" expanded="false" />
-            <element signature="method#onActivityCreated#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="method#onLocationChanged#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="method#openPreferredLocationInMap#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="e#7980#8060#0" expanded="false" />
-            <element signature="method#onSaveInstanceState#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="e#9107#9182#0" expanded="false" />
-            <element signature="method#onCreateLoader#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="e#9574#9636#0" expanded="false" />
-            <element signature="method#onLoadFinished#0;class#ForecastFragment#0" expanded="false" />
-            <element signature="e#10613#10697#0" expanded="false" />
-            <element signature="method#setUseTodayLayout#0;class#ForecastFragment#0" expanded="false" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/MainActivity.java">
@@ -2074,7 +2345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15205725">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2082,15 +2352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24329159">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55263156">
-          <caret line="88" column="59" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2106,7 +2367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1613" column="47" selection-start-line="1613" selection-start-column="47" selection-end-line="1613" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2118,12 +2378,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_detail.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45617172">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.19245283">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/DetailActivity.java">
@@ -2134,21 +2397,237 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_detail.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout-sw600dp/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.5172415">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_detail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_detail_wide.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/layout/fragment_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31034482">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/ForecastAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0626703">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="docComment;class#ForecastAdapter#0" expanded="false" />
+            <element signature="docComment;class#ViewHolder#0;class#ForecastAdapter#0" expanded="false" />
+            <element signature="class#ViewHolder#0;class#ForecastAdapter#0" expanded="false" />
+            <element signature="method#ViewHolder#0;class#ViewHolder#0;class#ForecastAdapter#0" expanded="false" />
+            <element signature="method#newView#0;class#ForecastAdapter#0" expanded="false" />
+            <element signature="method#bindView#0;class#ForecastAdapter#0" expanded="false" />
+            <element signature="method#getItemViewType#0;class#ForecastAdapter#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="270" column="54" selection-start-line="270" selection-start-column="54" selection-end-line="270" selection-end-column="54" />
+          <folding>
+            <element signature="method#getPreferredLocation#0;class#Utility#0" expanded="false" />
+            <element signature="e#1258#1303#0" expanded="true" />
+            <element signature="e#1321#1370#0" expanded="true" />
+            <element signature="method#isMetric#0;class#Utility#0" expanded="false" />
+            <element signature="e#1555#1597#0" expanded="true" />
+            <element signature="e#1615#1660#0" expanded="true" />
+            <element signature="e#1686#1731#0" expanded="true" />
+            <element signature="method#formatTemperature#0;class#Utility#0" expanded="false" />
+            <element signature="e#1831#1915#0" expanded="false" />
+            <element signature="e#2188#2234#0" expanded="true" />
+            <element signature="method#formatDate#0;class#Utility#0" expanded="false" />
+            <element signature="docComment;method#getFriendlyDayString#0;class#Utility#0" expanded="false" />
+            <element signature="e#3119#3175#0" expanded="false" />
+            <element signature="e#3631#3703#0" expanded="false" />
+            <element signature="e#3807#3840#0" expanded="true" />
+            <element signature="e#3869#3903#0" expanded="true" />
+            <element signature="docComment;method#getDayName#0;class#Utility#0" expanded="false" />
+            <element signature="e#4862#4948#0" expanded="false" />
+            <element signature="e#5241#5274#0" expanded="true" />
+            <element signature="e#5352#5388#0" expanded="true" />
+            <element signature="docComment;method#getFormattedMonthDay#0;class#Utility#0" expanded="false" />
+            <element signature="method#getFormattedMonthDay#0;class#Utility#0" expanded="false" />
+            <element signature="method#getFormattedWind#0;class#Utility#0" expanded="false" />
+            <element signature="e#6645#6669#0" expanded="true" />
+            <element signature="e#6713#6737#0" expanded="true" />
+            <element signature="e#6813#6896#0" expanded="false" />
+            <element signature="docComment;method#getIconResourceForWeatherCondition#0;class#Utility#0" expanded="false" />
+            <element signature="method#getIconResourceForWeatherCondition#0;class#Utility#0" expanded="false" />
+            <element signature="e#8233#8272#0" expanded="false" />
+            <element signature="docComment;method#getArtResourceForWeatherCondition#0;class#Utility#0" expanded="false" />
+            <element signature="method#getArtResourceForWeatherCondition#0;class#Utility#0" expanded="false" />
+            <element signature="e#9793#9832#0" expanded="false" />
+            <element signature="method#isConnected#0;class#Utility#0" expanded="false" />
+            <element signature="e#11345#11378#0" expanded="true" />
+            <element signature="e#11585#11637#0" expanded="true" />
+            <element signature="e#11695#11728#0" expanded="true" />
+            <element signature="e#11930#11976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/SettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="103" column="46" selection-start-line="103" selection-start-column="46" selection-end-line="103" selection-end-column="46" />
+          <folding>
+            <element signature="docComment;class#SettingsActivity#0" expanded="false" />
+            <element signature="e#1917#2002#0" expanded="false" />
+            <element signature="e#2196#2230#0" expanded="true" />
+            <element signature="docComment;method#bindPreferenceSummaryToValue#0;class#SettingsActivity#0" expanded="false" />
+            <element signature="method#bindPreferenceSummaryToValue#0;class#SettingsActivity#0" expanded="false" />
+            <element signature="e#2652#2709#0" expanded="false" />
+            <element signature="e#3159#3220#0" expanded="false" />
+            <element signature="e#3790#3832#0" expanded="false" />
+            <element signature="method#getParentActivityIntent#0;class#SettingsActivity#0" expanded="false" />
+            <element signature="e#4246#4283#0" expanded="true" />
+            <element signature="e#4506#4540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/sync/SunshineSyncAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding>
+            <element signature="method#SunshineSyncAdapter#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="e#3668#3722#0" expanded="false" />
+            <element signature="e#4087#4136#0" expanded="false" />
+            <element signature="e#5925#6003#0" expanded="false" />
+            <element signature="e#6658#6745#0" expanded="false" />
+            <element signature="docComment;method#getWeatherDataFromJson#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="e#7842#7916#0" expanded="false" />
+            <element signature="e#10531#10613#0" expanded="false" />
+            <element signature="e#12285#12362#0" expanded="false" />
+            <element signature="e#12703#12782#0" expanded="false" />
+            <element signature="method#notifyWeather#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="e#17425#17507#0" expanded="false" />
+            <element signature="e#18064#18142#0" expanded="false" />
+            <element signature="e#18315#18388#0" expanded="false" />
+            <element signature="docComment;method#addLocation#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="method#addLocation#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="e#20913#20997#0" expanded="false" />
+            <element signature="e#21163#21236#0" expanded="false" />
+            <element signature="docComment;method#configurePeriodicSync#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="method#configurePeriodicSync#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="docComment;method#syncImmediately#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="method#syncImmediately#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="docComment;method#getSyncAccount#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="method#getSyncAccount#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="method#onAccountCreated#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="docComment;method#setLocationStatus#0;class#SunshineSyncAdapter#0" expanded="false" />
+            <element signature="method#setLocationStatus#0;class#SunshineSyncAdapter#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.148149">
+          <caret line="103" column="52" selection-start-line="103" selection-start-column="18" selection-end-line="103" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fulltoast/android/sunshine/app/ForecastFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="316" column="68" selection-start-line="316" selection-start-column="45" selection-end-line="316" selection-end-column="68" />
+          <folding>
+            <element signature="docComment;class#ForecastFragment#0" expanded="false" />
+            <element signature="e#2282#2357#0" expanded="false" />
+            <element signature="e#3938#3982#0" expanded="true" />
+            <element signature="class#Callback#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="docComment;method#onItemSelected#0;class#Callback#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="method#onCreate#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="method#onCreateOptionsMenu#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="method#onOptionsItemSelected#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="e#5335#5393#0" expanded="false" />
+            <element signature="e#5567#5609#0" expanded="false" />
+            <element signature="method#onCreateView#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="e#6008#6063#0" expanded="false" />
+            <element signature="e#6861#6941#0" expanded="false" />
+            <element signature="e#7566#7627#0" expanded="false" />
+            <element signature="e#8045#8123#0" expanded="false" />
+            <element signature="method#onLocationChanged#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="method#openPreferredLocationInMap#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="e#8931#9011#0" expanded="false" />
+            <element signature="method#onSaveInstanceState#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="e#10058#10133#0" expanded="false" />
+            <element signature="method#onCreateLoader#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="e#10525#10587#0" expanded="false" />
+            <element signature="method#setUseTodayLayout#0;class#ForecastFragment#0" expanded="false" />
+            <element signature="e#12346#12374#0" expanded="true" />
+            <element signature="e#12627#12667#0" expanded="true" />
+            <element signature="e#12809#12852#0" expanded="true" />
+            <element signature="e#12987#13030#0" expanded="true" />
+            <element signature="e#13165#13210#0" expanded="true" />
+            <element signature="e#13342#13361#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45617172">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.608229">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
